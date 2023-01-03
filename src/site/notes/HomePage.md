@@ -5,8 +5,6 @@
 
 # Home Page
 
-
-
 这是home
-[[TypeScript/Introduction\|Introduction]]
+
 
